@@ -6,7 +6,7 @@ Challenge 14
 - Filters the metadata based on the sample ID provided (arrow function)
 - Selects the HTML element with the ID #sample-metadata
 - Clears any existing metadata inside the element (per instruction)
-- Appends paragraph (<p>) elements to the panel for each key-value pair in the filtered metadata
+- Appends paragraph (p) elements to the panel for each key-value pair in the filtered metadata
 - Capitalize the elements using  var capitalizedKey = key.toUpperCase(). Reference: Stack Overflow: How to uppercase Javascript object keys? https://stackoverflow.com/questions/7408638/how-to-uppercase-javascript-object-keys
 ## Build the Two Charts
 - The function builds the bubble chart and the bar chart
@@ -18,7 +18,7 @@ Challenge 14
 - The function initializes the dashboard when the page loads
 - Loads the JSON file containing the sample data
 - Extracts the sample names from the data
-- populates the dropdown menus (<select>) with the sample names as options
+- populates the dropdown menus (select) with the sample names as options
 - Get the first sample from the list and builds charts and metadata panel for it
 ## Function for event listener
 - The function is triggered when a new sample is selected from the dropdown menu
