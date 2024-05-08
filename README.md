@@ -18,7 +18,7 @@ Challenge 14
 - The function initializes the dashboard when the page loads
 - Loads the JSON file containing the sample data
 - Extracts the sample names from the data
-- populates the dropdown menus (select) with the sample names as options
+- Populates the dropdown menus (select) with the sample names as options
 - Get the first sample from the list and builds charts and metadata panel for it
 ## Function for event listener
 - The function is triggered when a new sample is selected from the dropdown menu
